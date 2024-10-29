@@ -13,3 +13,11 @@ If you prefer to specify certain hyperparameters, run:
 ```bash
 python singleTrain.py 
 ```
+### Citation
+If you use our code, please cite
+        @inproceedings{xie2024variational,
+          title={Variational Graph Contrastive Learning},
+          author={Xie, Shifeng and Giraldo, Jhony H},
+          booktitle={NeurIPS Workshop: Self-Supervised Learning– Theory and Practice},
+          year={2024}
+        }
