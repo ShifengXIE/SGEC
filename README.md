@@ -73,7 +73,7 @@ For any questions or issues, please open an issue on this repository or contact:
 
 - **Shifeng Xie**
   - Email: [shifeng.xie@telecom-paris.fr](mailto:shifeng.xie@telecom-paris.fr)
-  - [Personal Website](#) (https://www.linkedin.com/in/shifeng-xie-953757209/)
+  - [Personal Website](https://www.linkedin.com/in/shifeng-xie-953757209/)
 
 - **Jhony H. Giraldo**
   - Email: [jhony.giraldo@telecom-paris.fr](mailto:jhony.giraldo@telecom-paris.fr)
