@@ -50,8 +50,6 @@ The SGEC model consists of:
 - **Subgraph Gaussian Embedding (SGE) Module**: Combines GraphSAGE and Graph Attention Network (GAT) layers to embed subgraphs into a Gaussian space.
 - **Contrastive Learning with Optimal Transport**: Utilizes Wasserstein and Gromov-Wasserstein distances to measure similarities between subgraphs for contrastive learning.
 
-![SGEC Architecture](./assets/sgec_architecture.png)
-
 ---
 
 ## Citation
