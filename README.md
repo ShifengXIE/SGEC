@@ -77,7 +77,7 @@ For any questions or issues, please open an issue on this repository or contact:
 
 - **Jhony H. Giraldo**
   - Email: [jhony.giraldo@telecom-paris.fr](mailto:jhony.giraldo@telecom-paris.fr)
-  - [Personal Website](https://jhonygiraldo.github.io/)
+  - [Personal Website](https://sites.google.com/view/jhonygiraldo)
 
 ---
 
